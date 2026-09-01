@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Push-Ups",
+    "muscle_group": "Chest",
+    "equipment": "None",
+    "difficulty": "Beginner",
+    "category": "Strength"
+  },
+  {
+    "name": "Bench Press",
+    "muscle_group": "Chest",
+    "equipment": "Gym",
+    "difficulty": "Intermediate",
+    "category": "Strength"
+  },
+  {
+    "name": "Incline Dumbbell Press",
+    "muscle_group": "Chest",
+    "equipment": "Gym",
+    "difficulty": "Intermediate",
+    "category": "Strength"
+  },
+  {
+    "name": "Chest Flys",
+    "muscle_group": "Chest",
+    "equipment": "Gym",
+    "difficulty": "Beginner",
+    "category": "Strength"
+  },
+  {
+    "name": "Diamond Push-Ups",
+    "muscle_group": "Chest",
+    "equipment": "None",
+    "difficulty": "Intermediate",
+    "category": "Strength"
+  },
+  {
+    "name": "Dips",
+    "muscle_group": "Chest",
+    "equipment": "Bar",
+    "difficulty": "Intermediate",
+    "category": "Strength"
+  },
+  {
+    "name": "Air Squats",
+    "muscle_group": "Legs",
+    "equipment": "None",
+    "difficulty": "Beginner",
+    "category": "Strength"
+  },
+  {
+    "name": "Barbell Squats",
+    "muscle_group": "Legs",
+    "equipment": "Gym",
+    "difficulty": "Advanced",
+    "category": "Strength"
+  },
+  {
+    "name": "Leg Press",
+    "muscle_group": "Legs",
+    "equipment": "Gym",
+    "difficulty": "Beginner",
+    "category": "Strength"
+  },
+  {
+    "name": "Lunges",
+    "muscle_group": "Legs",
+    "equipment": "None",
+    "difficulty": "Beginner",
+    "category": "Strength"
+  },
+  {
+    "name": "Bulgarian Split Squats",
+    "muscle_group": "Legs",
+    "equipment": "None",
+    "difficulty": "Intermediate",
+    "category": "Strength"
+  },
+  {
+    "name": "Leg Curls",
+    "muscle_group": "Legs",
+    "equipment": "Gym",
+    "difficulty": "Beginner",
+    "category": "Strength"
+  },
+  {
+    "name": "Plank",
+    "muscle_group": "Core",
+    "equipment": "None",
+    "difficulty": "Beginner",
+    "category": "Stability"
+  },
+  {
+    "name": "Hanging Leg Raises",
+    "muscle_group": "Core",
+    "equipment": "Bar",
+    "difficulty": "Intermediate",
+    "category": "Strength"
+  },
+  {
+    "name": "Russian Twists",
+    "muscle_group": "Core",
+    "equipment": "None",
+    "difficulty": "Beginner",
+    "category": "Stability"
+  },
+  {
+    "name": "Mountain Climbers",
+    "muscle_group": "Core",
+    "equipment": "None",
+    "difficulty": "Intermediate",
+    "category": "Cardio"
+  },
+  {
+    "name": "Bicycle Crunches",
+    "muscle_group": "Core",
+    "equipment": "None",
+    "difficulty": "Beginner",
+    "category": "Stability"
+  },
+  {
+    "name": "Pull-Ups",
+    "muscle_group": "Back",
+    "equipment": "Bar",
+    "difficulty": "Intermediate",
+    "category": "Strength"
+  },
+  {
+    "name": "Deadlifts",
+    "muscle_group": "Back",
+    "equipment": "Gym",
+    "difficulty": "Advanced",
+    "category": "Strength"
+  },
+  {
+    "name": "Bent Over Rows",
+    "muscle_group": "Back",
+    "equipment": "Gym",
+    "difficulty": "Intermediate",
+    "category": "Strength"
+  },
+  {
+    "name": "Lat Pulldowns",
+    "muscle_group": "Back",
+    "equipment": "Gym",
+    "difficulty": "Beginner",
+    "category": "Strength"
+  },
+  {
+    "name": "Face Pulls",
+    "muscle_group": "Back",
+    "equipment": "Gym",
+    "difficulty": "Beginner",
+    "category": "Strength"
+  },
+  {
+    "name": "Walking",
+    "muscle_group": "Full Body",
+    "equipment": "None",
+    "difficulty": "Beginner",
+    "category": "Cardio"
+  },
+  {
+    "name": "Running",
+    "muscle_group": "Full Body",
+    "equipment": "None",
+    "difficulty": "Intermediate",
+    "category": "Cardio"
+  },
+  {
+    "name": "Jump Rope",
+    "muscle_group": "Full Body",
+    "equipment": "None",
+    "difficulty": "Beginner",
+    "category": "Cardio"
+  },
+  {
+    "name": "Burpees",
+    "muscle_group": "Full Body",
+    "equipment": "None",
+    "difficulty": "Intermediate",
+    "category": "Cardio"
+  },
+  {
+    "name": "Shoulder Press",
+    "muscle_group": "Shoulders",
+    "equipment": "Gym",
+    "difficulty": "Intermediate",
+    "category": "Strength"
+  },
+  {
+    "name": "Lateral Raises",
+    "muscle_group": "Shoulders",
+    "equipment": "Gym",
+    "difficulty": "Beginner",
+    "category": "Strength"
+  },
+  {
+    "name": "Bicep Curls",
+    "muscle_group": "Arms",
+    "equipment": "Gym",
+    "difficulty": "Beginner",
+    "category": "Strength"
+  },
+  {
+    "name": "Tricep Extensions",
+    "muscle_group": "Arms",
+    "equipment": "Gym",
+    "difficulty": "Beginner",
+    "category": "Strength"
+  },
+  {
+    "name": "Chin-Ups",
+    "muscle_group": "Arms",
+    "equipment": "Bar",
+    "difficulty": "Intermediate",
+    "category": "Strength"
+  }
+]
