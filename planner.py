@@ -3,13 +3,13 @@ import requests
 from biometrics import BiometricsCalculator
 
 class FitnessPlanner:
-    def __init__(self, exercises_path):
+    def __init__(self, exercises_path, model_name="deepseek-coder-v2"):
         with open(exercises_path, 'r') as f:
             self.exercises = json.load(f)
 
         # Ollama API Configuration
         self.ollama_url = "http://localhost:11434/api/generate"
-        self.model_name = "deepseek-coder-v2"
+        self.model_name = model_name
 
     def _get_ai_coach_advice(self, metrics, exercises, user_data):
         """

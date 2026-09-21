@@ -1,9 +1,10 @@
 import json
+import random
 import os
-from biometrics import get_bmi
+from biometrics import BiometricsCalculator
 from planner import FitnessPlanner
 
-PROFILE_FILE = 'user_profile.json'
+DATASET_FILE = 'curation_dataset.jsonl'
 
 def get_user_input(prompt, type_func=str, options=None):
     while True:
